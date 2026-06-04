@@ -14,7 +14,7 @@ The system takes various house-related parameters as input and predicts:
 
 The project uses a Linear Regression model trained on housing data and includes a complete data preprocessing pipeline.
 
----
+
 
 ## Features
 
