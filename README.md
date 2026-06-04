@@ -129,7 +129,7 @@ house-price-prediction-system
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/project_screenshot.png)
+![Dashboard](Images/project_screenshot.png)
 
 ---
 
