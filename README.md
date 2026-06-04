@@ -127,9 +127,6 @@ house-price-prediction-system
 ---
 
 
-
-## 📷 Dashboard Preview
-
 ## 📸 Dashboard Preview
 
 ![Dashboard](images/project_screenshot.png)
